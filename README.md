@@ -27,19 +27,10 @@ To set up the project locally, follow these steps:
    ```bash
    cd Portfolio
    ```
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-4. **Start the development server:**
-   ```bash
-   npm start
-   ```
+
 
 ## Usage
 
-- **Development:** Use `npm start` to run the website on a local server with live reloading.
-- **Build:** Use `npm run build` to create a production build of the website.
 - **Deploy:** Follow your preferred method to deploy the production build to your web server or hosting service.
 
 ## Contributing
