@@ -53,5 +53,5 @@ For questions or support, please contact me at azharshaikh40198@gmail.com.
 
 ---
 
-Thank you for contributing to portfolio website!
-``
+Thank you for your contribution to my portfolio website!
+
